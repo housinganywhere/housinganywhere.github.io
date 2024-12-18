@@ -422,4 +422,7 @@ This is an example feed result with 1 room in Copenhagen.
 }]
 ```
 
-[(tick)]: Aspose.Words.95836984-d6ce-411a-b053-806c9297ae77.001.png
+**Contact**
+If you somehow found this documentation before contacting us, but are interested in building an integration, please contact us through the form at: https://housinganywhere.com/integrations
+
+[(tick)]: tick.png
